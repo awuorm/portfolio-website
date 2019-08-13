@@ -295,6 +295,7 @@ input, select, textarea {
 
 		p.major {
 			font-size: 1.1rem;
+	
 		}
 
 		h1 {
@@ -2637,6 +2638,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			border-radius: 4px;
+			width:40%;
 		}
 
 		.image.left, .image.right {
